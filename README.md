@@ -1,6 +1,6 @@
 # PyIBM_database
 
-This is a culmination of short projects using Python to interact with an IBM DB2 Database. 
+This is a culmination of short projects using Python and SQL to interact with an IBM DB2 Database. 
 
 ## Datasets
 
